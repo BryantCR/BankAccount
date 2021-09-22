@@ -17,7 +17,7 @@ while( option == "1" or option == "2" or option == "3" or option == "4" ):
         Account.printAllAccountsInfo()
     print( "***** Bank Account MENU *****\n1) Add an account\n2) Deposit to an account\n3) Withdraw from an account" )
     print( "4) See the information of all accounts")
-    option = input( "Select an option: " )    
+    option = input( "Select an option: " )   
 
 print( "End of the program" )
 #michaelUser = User( "Michael", "Miller", 30 )
